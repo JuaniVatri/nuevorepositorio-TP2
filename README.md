@@ -1,6 +1,7 @@
 "Mi proyecto TP2"
-"A¤adiendo contenido en la rama nueva-funcionalida-TP2UTN_Vatri" 
-"Modificaci¢n en la rama principal." 
-"Modificaci¢n en rama principal que generar  conflicto"
+"Aï¿½adiendo contenido en la rama nueva-funcionalida-TP2UTN_Vatri" 
+"Modificaciï¿½n en la rama principal." 
+"Modificaciï¿½n en rama principal que generarï¿½ conflicto"
 "Modificacion en master que genere conflicto segundo intento"
-"Modificar de nuevo readme en rama principal, va a haber otra modificaci¢n en la rama nueva"
+"Modificar de nuevo readme en rama principal, va a haber otra modificaciï¿½n en la rama nueva"
+
